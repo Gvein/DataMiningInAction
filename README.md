@@ -1,4 +1,4 @@
-# SpartanOutputSearch
-Some scripts to automate work with Spartan14
+# DataMiningInAction
+HW for ML course
 
 
